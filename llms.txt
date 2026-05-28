@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/rupkotha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Rupkotha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rupkotha/) |
+| **Get License** | [Music Rights & Licensing for Rupkotha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rupkotha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক ঘোরের মাঝে ডাকছে আমায় কে
+> শুকনো পাতার নীরব সুরে স্বপ্ন ছড়ায় সে
+> অন্ধকারের বুক চিরে আজ আলোর ইশারা
+> এই রূপকথার জাদুতে মন হল যে দিশাহারা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ed0c29c2ea887b380d5dbf53c66abe0dadc85ae2d80cb6f2df44691bb4047d85` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

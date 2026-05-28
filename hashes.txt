@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rupkotha
+
+This log tracks the cryptographic history and versioning for the song **Rupkotha** (rupkotha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:22:40.334839 | `v1` | `ed0c29c2ea887b380d5dbf53c66abe0dadc85ae2d80cb6f2df44691bb4047d85` | `f94dc9334d4c1201f34cb0265b0d1f1fe6fedfcb3ba5147736ff2454e1fbaffb` | `2026-05-29_rupkotha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
